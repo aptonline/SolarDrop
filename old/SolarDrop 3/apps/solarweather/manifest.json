@@ -1,0 +1,18 @@
+{
+  "id": "solarweather",
+  "name": "Solarweather",
+  "version": "0.0.1",
+  "runtime": "python",
+  "entry": "main.py",
+  "category": "utilities",
+  "description": "Local SolarDrop app: Solarweather.",
+  "author": "Ade",
+  "min_solaros": "4.4.0",
+  "tags": [
+    "local",
+    "python"
+  ],
+  "requires": [
+    "gfx"
+  ]
+}

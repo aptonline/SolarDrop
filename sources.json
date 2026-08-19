@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {
+      "id": "official",
+      "name": "SolarOS Playground",
+      "url": "https://github.com/nilseuropa/solar_os_playground",
+      "enabled": true
+    }
+  ]
+}

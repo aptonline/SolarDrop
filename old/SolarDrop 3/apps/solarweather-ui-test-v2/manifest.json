@@ -1,0 +1,18 @@
+{
+  "id": "solarweather-ui-test-v2",
+  "name": "Solarweather Ui Test V2",
+  "version": "0.0.1",
+  "runtime": "python",
+  "entry": "main.py",
+  "category": "development",
+  "description": "Local SolarDrop app: Solarweather Ui Test V2.",
+  "author": "Ade",
+  "min_solaros": "4.4.0",
+  "tags": [
+    "local",
+    "python"
+  ],
+  "requires": [
+    "gfx"
+  ]
+}
